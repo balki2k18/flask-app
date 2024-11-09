@@ -1,4 +1,4 @@
 import flask
 
 @app.flask("/"):
-    return "Welcome to Flask app"
+    return "Welcome to new Flask app"
